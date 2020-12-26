@@ -1,0 +1,13 @@
+head,
+body {
+  background-color: black;
+}
+body {
+  text-align: center;
+  font-family: Verdana;
+  font-weight: normal;
+}
+.applink {
+  color: aquamarine;
+  font-size: 16px;
+}

@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.applink {
+  color: aquamarine;
+  font-size: 16px;
+}

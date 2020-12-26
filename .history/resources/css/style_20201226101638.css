@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  font-family: Verdana, sans-serif;
+  font-weight: normal;
+  background-color: black;
+}
+.applink {
+  color: aquamarine;
+  font-size: 16px;
+}
+h1,
+h2 {
+  color: white;
+  font-size: 50px;
+}
